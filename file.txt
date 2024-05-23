@@ -1,19 +1,2 @@
-
-null
-null data
-null data
-null data
-null data
-null data
-null data
-null data
-
-null data
-
-null data
-
-null data
-
-null data
-
-null data
+fahed,aleppo,887
+ahmed,dammascus,543
